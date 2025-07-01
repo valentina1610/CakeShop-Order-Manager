@@ -1,0 +1,16 @@
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.GeneratedMSBuildEditorConfig.editorconfig
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.AssemblyInfoInputs.cache
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.AssemblyInfo.cs
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.csproj.CoreCompileInputs.cache
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\bin\Debug\net5.0\PracticaExamen5.exe
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\bin\Debug\net5.0\PracticaExamen5.deps.json
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\bin\Debug\net5.0\PracticaExamen5.runtimeconfig.json
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\bin\Debug\net5.0\PracticaExamen5.runtimeconfig.dev.json
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\bin\Debug\net5.0\PracticaExamen5.dll
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\bin\Debug\net5.0\PracticaExamen5.pdb
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.dll
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\refint\PracticaExamen5.dll
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.pdb
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.genruntimeconfig.cache
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\ref\PracticaExamen5.dll
+D:\idra\programacion\Practica primer parcial\PracticaExamen5\PracticaExamen5\obj\Debug\net5.0\PracticaExamen5.csproj.AssemblyReference.cache
