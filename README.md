@@ -1,7 +1,7 @@
-# Bakery Order Management System
+# Cake shop Order Management System
 
 ## Description
-This is a **Bakery Order Management System** developed in C# using the **MVC architecture**. The system helps bakery owners efficiently manage clients, orders and products. It uses **JSON data persistence** to store and retrieve order information, and provides a **user-friendly interface** to streamline the ordering process.
+This is a **Cake shop Order Management System** developed in C# using the **MVC architecture**. The system helps bakery owners efficiently manage clients, orders and products. It uses **JSON data persistence** to store and retrieve order information, and provides a **user-friendly interface** to streamline the ordering process.
 
 ## Features
 - **Order management**: Create, view, update, and delete customer orders.
