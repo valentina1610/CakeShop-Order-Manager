@@ -16,7 +16,7 @@ This is a **Cake shop Order Management System** developed in C# using the **MVC 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PracticaExamen5.git
+    git clone https://github.com/yourusername/CakeShopOrderManagement.git
     ```
 2. Open the project in Visual Studio.
 3. Build and run the application.
