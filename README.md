@@ -12,7 +12,7 @@ This is a **Bakery Order Management System** developed in C# using the **MVC arc
 - C#
 - MVC Architecture
 - JSON
-- 
+  
 ## Installation
 1. Clone the repository:
     ```bash
